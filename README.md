@@ -1,3 +1,3 @@
 # Curso de Introducción a R
-Curso de intro a Rstudio
+Curso de introducción a R
 #Básicos de Rstudio para estudiantes
